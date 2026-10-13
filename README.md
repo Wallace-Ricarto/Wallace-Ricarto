@@ -12,7 +12,7 @@ Tenho facilidade para aprender novas tecnologias, adaptar-me a diferentes desafi
 
 - **Curso:** Ciência da Computação
 - **Instituição:** Universidade Paulista (UNIP)
-- **Situação:** Último semestre da graduação
+- **Situação:** 8º Semestre
 
 ## 🚀 Tecnologias e ferramentas
 
@@ -48,6 +48,25 @@ Tenho facilidade para aprender novas tecnologias, adaptar-me a diferentes desafi
 - Banco de dados
 - Inteligência artificial
 - Automação e inovação tecnológica
+
+## 💻 Projeto em destaque
+
+**📦 API de Pedidos — Desenvolvimento Backend**
+
+Projeto voltado ao desenvolvimento de uma API para gerenciamento de pedidos, com foco na comunicação entre sistemas, organização de informações e aplicação de conceitos de desenvolvimento backend.
+
+Principais objetivos:
+
+- Desenvolver e aprimorar conhecimentos em APIs
+- Trabalhar com requisições e respostas HTTP
+- Aplicar conceitos de desenvolvimento backend
+- Praticar a integração entre aplicações
+
+Tecnologias utilizadas:
+
+- Python: desenvolvimento da API e implementação das regras de negócio
+- MySQL: armazenamento e gerenciamento dos dados
+- Docker: criação de ambientes de execução e gerenciamento de contêineres
 
 ## 🎯 Objetivos profissionais
 
